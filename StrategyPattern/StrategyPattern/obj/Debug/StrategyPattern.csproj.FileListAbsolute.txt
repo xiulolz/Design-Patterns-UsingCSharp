@@ -1,0 +1,9 @@
+D:\胖達學長\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+D:\胖達學長\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\胖達學長\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\胖達學長\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+D:\胖達學長\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Main.resources
+D:\胖達學長\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+D:\胖達學長\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.cache
+D:\胖達學長\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+D:\胖達學長\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
