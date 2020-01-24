@@ -1,0 +1,6 @@
+C:\Users\xiulo\source\repos\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+C:\Users\xiulo\source\repos\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe
+C:\Users\xiulo\source\repos\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.pdb
+C:\Users\xiulo\source\repos\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.csprojAssemblyReference.cache
+C:\Users\xiulo\source\repos\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+C:\Users\xiulo\source\repos\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb
