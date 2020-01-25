@@ -4,11 +4,9 @@
 
 開放-封閉原則是物件導向程式設計的核心，遵循這個原則可以設計出`可維護、可擴展、可複用`的軟體。開發人員應該僅對程式中頻繁出現的那些部分進行抽象，並且拒絕不成熟的抽象。
 
----
-
 ## 例子
 
-[範例程式碼見 Simple Factory Pattern(原書以 winformy 作為範例，我自己將其簡化為 ConsoleApp)](https://github.com/xiulolz/Design-Patterns-UsingCSharp/tree/master/SimpleFactory)
+[範例程式碼見 Simple Factory Pattern(原書以 winform 為範例，我自己將其簡化為 ConsoleApp)](https://github.com/xiulolz/Design-Patterns-UsingCSharp/tree/master/SimpleFactory)
 
 以計算機程式為例。最為直覺的寫法就是通通在 client 中寫完所有功能甚至 layout，此時變化並沒有發生。
 
