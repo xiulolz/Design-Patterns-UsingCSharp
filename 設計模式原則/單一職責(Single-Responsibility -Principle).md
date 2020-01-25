@@ -1,4 +1,4 @@
-# **單一職責(Single-Responsibility -Principle)**
+# **單一職責(Single-Responsibility-Principle)**
 
 _如果一個類別承擔的職責過多，就等於把這些職責耦合在一起，一個職責的變化可能會削弱或者抑制這個類別完成其他職責的能力。這種耦合會導致脆弱的設計，當變化發生時，設計會遭受到意外不到的破壞_
 
