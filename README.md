@@ -2,3 +2,4 @@
  - [x] Simple Factory Pattern
  - [x] Strategy Pattern
 - [x] Single Responsbility Principle
+- [x] Open-Closed Principle
