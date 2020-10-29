@@ -28,3 +28,5 @@ _如果一個類別承擔的職責過多，就等於把這些職責耦合在一�
   **這時就可以將兩個職責(連接管理、資料通訊)拆開**
 
   ![UML](https://github.com/xiulolz/Design-Patterns-UsingCSharp/blob/master/%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F%E5%8E%9F%E5%89%87/uml.png)
+
+引用自Finn的部落格 - 傳送門(https://medium.com/@f40507777/%E5%96%AE%E4%B8%80%E8%81%B7%E8%B2%AC%E5%8E%9F%E5%89%87-single-responsibility-principle-7b4eb03f1fff)
